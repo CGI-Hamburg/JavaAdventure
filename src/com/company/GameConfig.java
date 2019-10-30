@@ -1,6 +1,11 @@
 package com.company;
 
-// Initiate Game Map
+/**
+ *  This class creates the game map - i.e. creation of the rooms.
+ *
+ * @author shirley
+ * @version 0.1
+ */
 
 public class GameConfig {
 }
