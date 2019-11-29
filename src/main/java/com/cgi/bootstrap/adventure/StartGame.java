@@ -1,4 +1,4 @@
-package com.company;
+package com.cgi.bootstrap.adventure;
 
 // Game Play Action happens here
 

@@ -1,4 +1,4 @@
-package com.company;
+package com.cgi.bootstrap.adventure;
 
 /**
  *  This class hold information about the options that a user can select.

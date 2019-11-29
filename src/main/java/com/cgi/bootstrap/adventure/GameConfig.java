@@ -1,4 +1,4 @@
-package com.company;
+package com.cgi.bootstrap.adventure;
 
 /**
  *  This class creates the game map - i.e. creation of the rooms.

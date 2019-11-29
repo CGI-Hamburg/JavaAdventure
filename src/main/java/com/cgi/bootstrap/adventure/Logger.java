@@ -1,4 +1,4 @@
-package com.company;
+package com.cgi.bootstrap.adventure;
 
 public class Logger {
     public static void debug(String text){
