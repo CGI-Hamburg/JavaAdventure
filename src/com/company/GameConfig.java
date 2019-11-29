@@ -11,7 +11,9 @@ public class GameConfig {
 
     private Room currentRoom;
 
-    public static void createRoom() {
+    // Methode um die Spielkarte (Räume) aufzubauen.
+    // @shirley
+    public void createRoom() {
 
         Room flur, kueche, wohnzimmer, waffenkammer, schlafzimmer, badehaus;
 
