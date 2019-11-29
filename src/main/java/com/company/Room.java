@@ -1,5 +1,12 @@
 package com.company;
 
+/**
+ *  This class hold information about Rooms.
+ *
+ * @author Hundemami
+ * @version 0.1
+ */
+
 public class Room {
 
     private int numberDoors;

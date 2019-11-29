@@ -9,11 +9,10 @@ package com.company;
 
 public class GameConfig {
 
-    private Room currentRoom;
 
     // Methode um die Spielkarte (Räume) aufzubauen.
     // @shirley
-    public void createRoom() {
+    public Room createRoom() {
 
         Room flur, kueche, wohnzimmer, waffenkammer, schlafzimmer, badehaus;
 
@@ -34,12 +33,8 @@ public class GameConfig {
         badehaus.setExits(waffenkammer,null,null,schlafzimmer);
 
         //Start position
-        currentRoom = flur;
+        return flur;
     }
-
-
-
-
 
 
 
