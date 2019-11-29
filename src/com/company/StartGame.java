@@ -5,7 +5,9 @@ package com.company;
 public class StartGame {
 
     public static void main(String[] args) {
-	// write your code here
-       git commit
+
+        GameConfig config = new GameConfig();
+        config.createRoom();
+
     }
 }
